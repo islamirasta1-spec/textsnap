@@ -1,0 +1,6 @@
+{
+  "name": "TextSnap",
+  "description": "Offline Android image-to-text OCR scanner built with Jetpack Compose, CameraX, Google ML Kit, Room, and Storage Access Framework.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
